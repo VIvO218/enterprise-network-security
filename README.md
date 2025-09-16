@@ -48,3 +48,9 @@ High availability with HSRP & EtherChannel.
 Site-to-Site VPN for remote secure access.
 
 Integrated VoIP with VLAN 70.
+
+#Author
+**Bendib Ines**  
+Bachelor’s Degree in Computer Science – Cybersecurity  
+2024 – 2025
+
